@@ -1,4 +1,4 @@
-# autopath-copy-reference
+# Autopath-copy-reference
 
 ## Purpose
 This VS Code extension adds a simple command that copies the current selection (or the entire line when nothing is selected) together with the full path of the active file. The copied text has the format:
